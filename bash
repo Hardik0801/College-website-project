@@ -1,0 +1,12 @@
+/nonprofit-website
+    /css
+        styles.css
+    /images
+        logo.png
+    /js
+        scripts.js
+    index.html
+    about.html
+    campaigns.html
+    donate.html
+    contact.html
